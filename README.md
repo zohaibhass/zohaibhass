@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **ANGULAR/REACT/SPRING BOOT**
 
-- 👨‍💻 All of my projects are available at [https://zohaibhassandeveloper.netlify.app/](https://zohaibhassandeveloper.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/zohaibhass]
 
-- 📝 I regularly write articles on [https://zohaibhassandeveloper.netlify.app/](https://zohaibhassandeveloper.netlify.app/)
+- 📝 I regularly write articles on [https://onlinefreetools.online/blog]
 
 - 💬 Ask me about **ANGULAR/REACT/SPRING BOOT**
 
 - 📫 How to reach me **zohaibhunzai121@gmail.com**
 
-- 📄 Know about my experiences [https://zohaibhassandeveloper.netlify.app/](https://zohaibhassandeveloper.netlify.app/)
+- 📄 Know about my experiences [https://zohaibhassansoftwareengineer.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
