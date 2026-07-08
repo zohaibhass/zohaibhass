@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Hassan</h1>
-<h3 align="center">A passionate Full-Stack Developer with over 3+ years of experience in building modern, scalable web applications using React, TypeScript, and Spring Boot.</h3>
+<h3 align="center">A passionate Full-Stack Developer with over 3+ years of experience in building modern, scalable web applications using Angular, React, TypeScript, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibhass&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibhass" /> </p>
 
