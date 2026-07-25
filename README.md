@@ -23,7 +23,7 @@
 </p>
 <p align="left">
 <a href="https://zohaibhassansoftwareengineer.netlify.app/" target="_blank">
-  <img align="center" src="https://www.svgrepo.com/show/475689/globe.svg" alt="Portfolio" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" />
 </a>
 </p>
 
